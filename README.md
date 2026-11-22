@@ -1,4 +1,4 @@
-# ⚡ WinperPacker for macOS (Apple Silicon M1 / M2 / M3 / M4)
+# ⚡ WinperPacker for macOS (Apple Silicon M1 / M2 / M3 / M4/ M5 / M6 )
 
 **Wrap any Windows `.exe` — work utilities, legacy software, or DirectX/Steam games — into a standalone native macOS `.app` in seconds.**
 
